@@ -1,0 +1,2 @@
+# shell scripts must stay LF on Windows clones (core.autocrlf=true breaks sh)
+.claude/skills/**/*.sh text eol=lf
